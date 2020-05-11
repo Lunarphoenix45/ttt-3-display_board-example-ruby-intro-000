@@ -2,3 +2,8 @@
 cell = "   "
 pipe = |
 dash = -
+puts "   |   |   "
+puts "-----------"
+puts "   |   |   "
+puts "-----------"
+puts "   |   |   "
